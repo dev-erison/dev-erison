@@ -29,3 +29,8 @@ I am just starting my journey on GitHub and currently have no recorded activity.
 ## Latest Blog Posts
 
 I currently do not have any blog posts, but I plan to share my learning experiences and projects in the near future!
+
+## 📬 Get In Touch
+* 💼 **LinkedIn:** coming soon
+* 📧 **Email:** eryxkleos@privatemx.org | eryxkleos@mail2tor.co
+* 💬 DM me on GitHub!
