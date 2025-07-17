@@ -1,36 +1,42 @@
-## Hi there! 👋
+## Hi there!
+I'm **Domitriev Roman** (*a.k.a* **Erison Cleyton**), a Junior Developer from Brazil specializing in **Zig**, **C**, **ASM (Basic)**, **Python**, and **Back-end Development**.
 
-I'm **Erison Cleyton da Silva F.**, a passionate Junior Developer from Brazil specializing in **Python** and **Back-end Development**. Currently exploring the world of **Rust** and always eager to learn new technologies. Let's build something great together!
+---
 
 ## About Me
+* Junior Developer based in **Brazil/RN**
+* Focus on **low-level programming** and **back-end technologies**
+* Passionate about **efficient, minimal, and scalable code**
+* Currently studying **Rust** and experimenting with **language design**
 
-I'm a Junior Developer based in **Brazil/RN**, with a focus on back-end technologies. My journey in coding is fueled by a desire to create efficient and scalable applications. I love diving into new programming languages and frameworks, especially **Python** and **Rust**. In my spare time, I enjoy exploring various software development tools and contributing to open-source projects.
+---
 
-## Skills & Technologies
+## Skills && Technologies
 
+* **Languagens:** Zig, C, ASM (Basic), Python, Rust
+* **Paradigms:** Low-level programming. Back-end development
+* **Interests:** Os Development, Open Source
 
+---
 
 ## Top Projects
 
-Currently, I don't have any public repositories to showcase, but I am actively working on several projects. Stay tuned for updates!
+Currently, I don't have public repositories to showcase, but I am actively working on several projects. Stay tuned for updates!
+
+---
 
 ## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-erison\&show_icons=true\&theme=radical)
 
-🔭 **Public Repositories**: 0
-👥 **Followers**: 0
-➡️ **Following**: 0
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-erison&show_icons=true&theme=radical)
+## Get in Touch
 
-## Recent Activity
+| Service Mail     | Address                                                  |
+|------------------|----------------------------------------------------------|
+| **PrivateMX**    | [eryxkleos@privatemx.org](mailto:eryxkleos@privatemx.org)|
+| **Mail2Tor**     | [eryxkleos@mail2tor.co](mailto:eryxkleos@mail2tor.co)    |
+| **Proton Mail**  | [eryxkleos@proton.io](mailto:eryxkleos@proton.io)        |
+| **Gmail**        | [0nec4t@gmail.com](mailto:eryxkleos@gmail.com)           |
 
-I am just starting my journey on GitHub and currently have no recorded activity. However, I am excited to contribute and engage with the community soon!
-
-## Latest Blog Posts
-
-I currently do not have any blog posts, but I plan to share my learning experiences and projects in the near future!
-
-## 📬 Get In Touch
-* 💼 **LinkedIn:** coming soon
-* 📧 **Email:** eryxkleos@privatemx.org | eryxkleos@mail2tor.co
-* 💬 DM me on GitHub!
+---
